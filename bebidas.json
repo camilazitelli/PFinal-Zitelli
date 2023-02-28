@@ -1,0 +1,38 @@
+[
+    {
+        "bebida":"Aperol",
+        "presentacion":"750ml",
+        "precio": "$3000",
+        "imagen": "imagenes/Aperol.jpg"
+    },
+    {
+        "bebida":"Cynar",
+        "presentacion":"750ml",
+        "precio": "$2500",
+        "imagen": "imagenes/Cynar.jpg"
+    },
+    {
+        "bebida":"Fernet",
+        "presentacion":"1lt",
+        "precio": "S2750",
+        "imagen": "imagenes/Fernet.jpg"
+    },
+    {
+        "bebida":"Gin",
+        "presentacion":"500ml",
+        "precio": "S3700",
+        "imagen": "imagenes/Gin.jpg"
+    },
+    {
+        "bebida":"Gancia",
+        "presentacion":"1lt",
+        "precio": "$1500",
+        "imagen": "imagenes/gancia.jpg"
+    },
+    {
+        "bebida":"Vodka",
+        "presentacion":"1lt",
+        "precio": "$2900",
+        "imagen": "imagenes/vodka.jpg"
+    }
+]

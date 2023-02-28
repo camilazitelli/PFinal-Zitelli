@@ -1,0 +1,68 @@
+.catalogo {
+    display: flex;
+    justify-content: space-around;
+}
+
+#formulario {
+    display: grid;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+
+#cajaformulario {
+    display: grid;
+    justify-content: center;
+}
+
+.alert alert-success {
+    margin: auto;
+}
+
+#noseve {
+    visibility: hidden;
+}
+
+#validandoedad {
+    display: grid;
+    justify-content: space-around;
+    position: relative;
+}
+
+#validacionedad {
+    font-size: xx-large;
+}
+
+#carouselExampleAutoplaying {
+    position: absolute;
+}
+
+#buscarbebida {
+    display: inline-block;
+    margin-left: 40%;
+    margin-top: 250px;
+    font-size: larger;
+}
+
+#nombre {
+    border-radius: 5px;
+    border-width: 1px;
+}
+
+.limpiar {
+    border-radius: 5px;
+    border-width: 1px;
+    display: flex;
+    justify-content: center;
+}
+
+#brebaje {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+#limpiarbusqueda {
+    display: flex;
+    justify-content: center;
+
+}
